@@ -1,0 +1,10 @@
+               graphs/big_graph_10000.txt               
+Behavior            Time (sec)          Time (ms)           
+Dijk                2.58 seconds        2,577.03 ms         
+A*-Eucl             0.48 seconds        477.37 ms           
+A*-Constant         2.63 seconds        2,628.69 ms         
+A*-Random           2.56 seconds        2,564.20 ms         
+Array-Dijk          0.02 seconds        16.62 ms            
+Array-A*-Eucl       0.00 seconds        3.90 ms             
+Array-A*-Constant   0.02 seconds        15.67 ms            
+Array-A*-Random     0.02 seconds        16.06 ms            

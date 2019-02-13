@@ -1,0 +1,5 @@
+package enums;
+
+public enum CharacterState {
+	MOVING, STANDING, PATHFOLLOWING, FINISHED_PATHFOLLOWING, HAVE_TARGET, NO_TARGET,  
+}

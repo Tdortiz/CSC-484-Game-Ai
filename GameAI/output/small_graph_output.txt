@@ -1,0 +1,10 @@
+               graphs/small_graph2.txt               
+Behavior            Time (sec)          Time (ms)           
+Dijk                0.00 seconds        0.15 ms             
+A*-Eucl             0.00 seconds        0.02 ms             
+A*-Constant         0.00 seconds        0.07 ms             
+A*-Random           0.00 seconds        0.13 ms             
+Array-Dijk          0.00 seconds        0.05 ms             
+Array-A*-Eucl       0.00 seconds        0.01 ms             
+Array-A*-Constant   0.00 seconds        0.04 ms             
+Array-A*-Random     0.00 seconds        0.04 ms             

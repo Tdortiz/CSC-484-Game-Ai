@@ -1,0 +1,10 @@
+               graphs/graph_50000_1000000.txt               
+Behavior            Time (sec)          Time (ms)           
+Dijk                0.00 seconds        0.00 ms             
+A*-Eucl             0.00 seconds        0.00 ms             
+A*-Constant         0.00 seconds        0.00 ms             
+A*-Random           0.00 seconds        0.00 ms             
+Array-Dijk          0.30 seconds        298.43 ms           
+Array-A*-Eucl       0.06 seconds        61.17 ms            
+Array-A*-Constant   0.29 seconds        294.44 ms           
+Array-A*-Random     0.30 seconds        296.26 ms           
